@@ -1,3 +1,7 @@
 Ajout du nom
 Création du fichier changelog
+<<<<<<< HEAD
 ok ok 
+=======
+bon bg c fini non 
+>>>>>>> demo
